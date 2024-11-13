@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(253, 247, 237);
+}
+
+div{
+    width: 60%;
+    margin: 10% auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    height: 300px;
+}
+
+img{
+    height: 60px;
+    width: 60px;
+    border-radius: 20px;
+    margin-left: 75px;
+    margin-top: 55px;
+}
+
+input{
+    float: right;
+    border-radius: 5px;
+    margin-right: 175px;
+    height: 25px;
+    border: 2px solid rgb(211, 211, 211);
+}
+.rgstr{
+    color: snow;
+    background-color: rgb(47, 47, 47);
+}
+
+label.twofive{
+    font-size: 25px;
+}

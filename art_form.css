@@ -1,0 +1,172 @@
+body{
+    overflow-x: hidden;
+}
+div.intro {
+    font-size: 25px;
+    text-align: left;
+}
+
+div{
+    margin-left: 125px;
+    margin-right: 75px;
+    margin-top: 75px;
+}
+
+ul.nav {
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 010px;
+    width: 100%;
+}
+
+li.mod, li.modd{
+    float: left;
+    font-size: 25px;
+}
+
+li.mod a, li.modd a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(114, 112, 112);
+}
+
+li.mod a:hover{
+    background-color: rgb(77, 77, 77);
+}
+
+a:active{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
+
+#mp{
+    float: right;
+    margin-right: 35px;
+    margin-top: -40px;
+    object-fit: contain;
+    position: relative;
+}
+
+#wp{
+    float: right;
+    margin-right: 35px;
+    margin-top: -35px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#kp{
+    float: right;
+    margin-right: 35px;
+    margin-top: -35px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#gp{
+    float: right;
+    margin-right: 35px;
+    margin-top: -35px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#p{
+    float: right;
+    margin-right: 35px;
+    margin-top: -35px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#bs{
+    float: right;
+    margin-right: 35px;
+    margin-top: -75px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#ss{
+    float: right;
+    margin-right: 35px;
+    margin-top: -65px;
+    object-fit: contain;
+    position: relative;
+   }
+
+
+#ke{
+    float: right;
+    margin-right: 35px;
+    margin-top: -65px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#ps{
+    float: right;
+    margin-right: 35px;
+    margin-top: -75px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#b{
+    float: right;
+    margin-right: 35px;
+    margin-top: -70px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#bn{
+    float: right;
+    margin-right: 35px;
+    margin-top: -65px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#kk{
+    float: right;
+    margin-right: 35px;
+    margin-top: -55px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#hcm{
+    float: right;
+    margin-right: 35px;
+    margin-top: -75px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#ccm{
+    float: right;
+    margin-right: 35px;
+    margin-top: -68px;
+    object-fit: contain;
+    position: relative;
+    }
+
+#fm{
+    float: right;
+    margin-right: 35px;
+    margin-top: -60px;
+    object-fit: contain;
+    position: relative;
+    }
